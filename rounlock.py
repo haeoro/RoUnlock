@@ -1,4 +1,4 @@
-# Roblox FPS Unlocker | https://github.com/coolpancakes
+# Roblox FPS Unlocker | https://github.com/haeoro
 # Unlocks default FPS cap on Roblox.
 
 import time
